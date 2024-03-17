@@ -21,10 +21,10 @@ The project is functional for initial requirements, through a pilot with polymer
 ### How to Contribute
 We welcome any contributions that help improve and expand the Materiom_AshbyPlot tool. If you are interested in contributing, please follow these steps:
 
-Get familiar with the Project: Review the documentation and source code to better understand the project and its objectives.
-Identifies Areas of Improvement: This may be in the form of bug fixes, development of new features, or improvement of documentation.
-Discussion of Ideas: Before you start working on a significant contribution, open an issue to discuss your ideas with the project team. This helps align your proposals with the project objectives and avoid duplication of efforts.
-Fork and Pull Request: Fork the repository, work on your contribution in a separate branch, and submit a pull request. Be sure to follow the project's coding and documentation conventions.
+- Get familiar with the Project: Review the documentation and source code to better understand the project and its objectives.
+- Identifies Areas of Improvement: This may be in the form of bug fixes, development of new features, or improvement of documentation.
+- Discussion of Ideas: Before you start working on a significant contribution, open an issue to discuss your ideas with the project team. This helps align your proposals with the project objectives and avoid duplication of efforts.
+- Fork and Pull Request: Fork the repository, work on your contribution in a separate branch, and submit a pull request. Be sure to follow the project's coding and documentation conventions.
 
 ### Good practices
 - Write clear and maintainable code.
