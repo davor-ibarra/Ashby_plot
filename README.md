@@ -5,7 +5,9 @@ The project allows you to deploy a web application on your local system (By Stre
 
 ## Example use app
 
-![example_app](https://github.com/davor-ibarra/Materiom_AshbyPlot/assets/83510897/11d4dd8b-fcc7-410f-aa97-0baa259748a5)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/davor-ibarra/Materiom_AshbyPlot/assets/83510897/11d4dd8b-fcc7-410f-aa97-0baa259748a5)" />
+</p>
 
 ## Project Status
 The project is functional for initial requirements, through a pilot with polymeric materials pWe continue to work on improving the functionality, accuracy and usability of the application. Users and contributors are encouraged to provide feedback and suggestions, which is vital for the continued development and improvement of the project.
