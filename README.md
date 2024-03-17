@@ -1,7 +1,7 @@
 # Materiom_AshbyPlot
 
 ## Breaf Description
-The project allows you to deploy a web application on your local system for the development of Ashby diagrams, with the idea of facilitating the analysis of data in emerging fields for the development of bio-materials projects aimed at environmental sustainability.
+The project allows you to deploy a web application on your local system (By Streamlit) for the development of Ashby diagrams, with the idea of facilitating the analysis of data in emerging fields for the development of bio-materials projects aimed at environmental sustainability.
 
 ## Project Status
 The project is functional for initial requirements, through a pilot with polymeric materials pWe continue to work on improving the functionality, accuracy and usability of the application. Users and contributors are encouraged to provide feedback and suggestions, which is vital for the continued development and improvement of the project.
