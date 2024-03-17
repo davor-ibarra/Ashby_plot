@@ -6,7 +6,7 @@ The project allows you to deploy a web application on your local system (By Stre
 ## Example use app
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/davor-ibarra/Materiom_AshbyPlot/assets/83510897/11d4dd8b-fcc7-410f-aa97-0baa259748a5)" />
+  <img src="https://github.com/davor-ibarra/Materiom_AshbyPlot/blob/main/resourses/example_app.gif" />
 </p>
 
 ## Project Status
