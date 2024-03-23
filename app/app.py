@@ -280,8 +280,12 @@ def ashby_plot():
     datos_filtrados = datos_hoja[columnas_filtradas]
     datos_filtrados = datos_filtrados[datos_filtrados['Abbreviations'].isin(materiales_seleccionados)]
 
-    # Genera el plot de Ashby
-    generar_plot_ashby(datos_filtrados, materiales_seleccionados, propiedades_seleccionadas, modo_visualizacion, tipo_conexion)
+    if len(propiedades_seleccionadas) == 2:
+      # Genera el plot de Ashby
+      generar_plot_ashby(datos_filtrados, materiales_seleccionados, propiedades_seleccionadas, modo_visualizacion, tipo_conexion)
+    else:
+      st.warning('Please, select almost one material and two properties.')
+      return
     
     # Inicializa el contador si no existe en el estado de sesión
     if 'contador_guardado' not in st.session_state:
