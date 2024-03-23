@@ -13,7 +13,6 @@ The project allows you to deploy a web application on your local system (By Stre
 The project is functional for initial requirements, through a pilot with polymeric materials pWe continue to work on improving the functionality, accuracy and usability of the application. Users and contributors are encouraged to provide feedback and suggestions, which is vital for the continued development and improvement of the project.
 
 ## Future developments
-- Warning when select only one propertie.
 - Spline limits to avoid overfitting
 - Facilitate data preprocessing
 - Other improvements
